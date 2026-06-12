@@ -1,0 +1,14 @@
+torch==2.8.0
+numpy==2.0.2
+pandas==2.2.3
+scikit-learn==1.6.1
+scipy==1.13.1
+matplotlib==3.9.4
+einops==0.8.1
+reformer-pytorch==1.4.4
+tqdm==4.67.1
+PyWavelets==1.6.0
+sktime==0.37.1
+patool==1.15.0
+ptflops==0.7.4
+thop==0.1.1.post2209072238
