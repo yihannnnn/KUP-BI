@@ -1,3 +1,7 @@
+## Contact
+
+If you have any questions, please feel free to contact us at yihann@stu.scu.edu.cn.
+
 # KUP-BI
 
 Official implementation for the paper:
